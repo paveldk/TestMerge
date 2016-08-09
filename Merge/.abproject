@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Merge",
+  "ProjectGuid": "2918fd4a-65b4-4684-a486-903d56cbae0c",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Merge",
+  "DisplayName": "Merge",
+  "Author": "",
+  "Description": "Merge",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{2904f45f-ec64-46e1-bc35-aaef171a1496}",
+  "WP8ProductID": "{3076175a-3af3-470a-98b8-26006d93d361}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Merge",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
